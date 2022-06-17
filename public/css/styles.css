@@ -1,0 +1,62 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #eac926;
+}
+header
+{
+
+    font-family: blue;
+font-size: 12px;
+
+}
+
+html
+{
+    font-size: 62,5%;
+}
+
+
+
+ul#pagotarjeta li
+{
+    text-align: center;
+}
+ul#enviogratis li
+{
+    text-align: center;
+}
+ul#seguridad li
+{
+    text-align: center;
+}
+#bajada
+{
+  text-align: center;  
+}
+
+.precio{
+    font-size: 18px;
+}
+.descuento{
+    font-size: 16px;
+}
+.descripcion{
+    font-size: 16px;
+}
+
+.titulares
+{
+font-size: 24px;
+}
+
+footer
+{
+    text-align: center;
+    margin-bottom: 10px;
+}
